@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Nitish 👋
 
-<!--
-**nitish-ece/nitish-ece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electronics and Communication Engineering student interested in software engineering, electronics, and technology.
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C Programming
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+- Electronics & ECE fundamentals
+
+## 🛠️ Building
+
+I'm currently building small programming and ECE projects while developing my technical skills.
+
+## 🎯 Goals
+
+- Become a strong problem solver
+- Build practical projects
+- Participate in hackathons
+- Gain internship experience
+- Prepare for software engineering and ECE opportunities
+
+## 📚 My Journey
+
+**ECE Student → Programmer → Problem Solver → Engineer**
+
+Learning, building, and improving every day. 🚀
